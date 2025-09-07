@@ -1,0 +1,5 @@
+{
+  "name": "SolveSphere",
+  "description": "A hyperlocal problem-solving and resource-sharing app that acts as a real-time community help board. Users can post problems/needs, and others can respond with solutions/resources quickly.",
+  "requestFramePermissions": []
+}
